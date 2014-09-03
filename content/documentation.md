@@ -1,3 +1,7 @@
+---
+title: Installation
+---
+
 # How to install the test release
 
 ## Arch linux
@@ -12,7 +16,7 @@ Server = http://repo.yarrrthegame.com/arch/$repo/os/$arch
 
 Type the following to the terminal.
 
-~~~
+~~~ bash
 # pacman -Sy
 # pacman -S yarrr
 ~~~
@@ -27,7 +31,7 @@ deb http://repo.yarrrthegame.com/debian trusty multiverse
 
 Type the following to the terminal.
 
-~~~
+~~~ bash
 # apt-get update
 # apt-get install yarrr
 ~~~
