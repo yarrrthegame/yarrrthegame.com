@@ -32,13 +32,23 @@ a:hover {
 }
 
 #main h1 {
-  font-size: 40px;
+  font-size: 30px;
+  font-weight: bold;
+
+  line-height: 40px;
+
+  letter-spacing: -1px;
+}
+
+#main h2 {
+  font-size: 25px;
   font-weight: normal;
 
   line-height: 40px;
 
   letter-spacing: -1px;
 }
+
 
 #main p {
   margin: 20px 0;
