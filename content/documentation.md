@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: Documentation
 ---
 
 # How to install the test release
@@ -34,5 +34,13 @@ Type the following to the terminal.
 ~~~ bash
 # apt-get update
 # apt-get install yarrr
+~~~
+
+# How to start the test release
+
+Just type in the terminal the following.
+
+~~~ bash
+$ yarrrclient --server test.yarrrthegame.com:2001 --fullscreen
 ~~~
 
