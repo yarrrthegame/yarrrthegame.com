@@ -1,7 +1,7 @@
 <% render 'default' do %>
 <div class='post'>
   <h1><%= item[:title] %></h1>
-  <aside>Posted at: <%= item[:created_at] %></aside>
+  <aside><%= item[:author] %> / <%= item[:created_at] %></aside>
   <article>
     <%= yield %>
   </article>
