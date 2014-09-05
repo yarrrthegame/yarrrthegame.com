@@ -31,6 +31,11 @@ a:hover {
   width: 500px;
 }
 
+#main a:link,
+#main a:visited {
+  color: #000;
+}
+
 #main h1 {
   font-size: 25;
   font-weight: normal;
