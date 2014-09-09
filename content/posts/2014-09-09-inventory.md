@@ -13,3 +13,5 @@ After a huge refactoring session I have only a couple of small things to show yo
  * *new hud layout*: The rest of the hud has been moved to the bottom left of the screen.
  * *fixed* many bugs related to loot objects
 
+Do not forget to upgrade your client!
+
