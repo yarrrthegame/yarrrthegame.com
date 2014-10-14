@@ -33,7 +33,11 @@ a:hover {
 
 #main a:link,
 #main a:visited {
-  color: #000;
+  color: #f30;
+}
+
+#main a:hover {
+  color: #f90;
 }
 
 #main h1 {
